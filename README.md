@@ -32,4 +32,5 @@ Basically, feel free to use and re-use any way you want.
 
 ## 
 
-- Read our [Laravel](https://laravel.com/docs/8.x)
+- For more info Read [Laravel](https://laravel.com/docs/8.x)
+##
